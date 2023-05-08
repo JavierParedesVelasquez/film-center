@@ -1,0 +1,44 @@
+.peliculas_catalogo{
+	background-color: #141414;
+	padding-left: 92px;
+}
+.peliculas_catalogo .title_catalogo{
+	color: #fff;
+	font-family: 'Roboto Slab', serif;
+}
+.peliculas_catalogo .card{
+	margin: 30px;
+}
+.peliculas_catalogo .card-img-top{
+	margin: auto;
+	width: 286px;
+	height: 290px;
+}
+.peliculas_catalogo .card-body a{
+	margin: auto;
+}
+.peliculas_catalogo .boton_estrenos{
+	margin: auto;
+	align-items: center;
+	text-align: center;
+	justify-content: center;
+}
+.title_venta{
+	color: #004A8C;
+    font-weight: 800;
+    font-size: 40px;
+    text-align: left;
+}
+.cuadro_venta{
+	    border: 5px solid ;
+	    padding: 30px 30px;
+}
+.subtitulo2{
+ 	 	    color: #0D1F40;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: left;
+}
+.div_button{
+	margin:auto; 
+}

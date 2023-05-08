@@ -1,0 +1,61 @@
+body{
+	background-color: #141414;	
+}
+.trailer{
+	background-color: #141414;	
+}
+.main{
+	margin-top: 50px;
+}
+.colum1{
+
+}
+.main .foto_peli{
+	padding-top: 10px;
+	width: 550px;
+	height: 450px;
+
+}
+.colum1 .div_medio{
+ 	
+}
+.main .div_medio .title1{
+	color: #004A8C;
+	font-weight: 800;
+	font-size: 40px;
+	text-align: left;
+}
+.main .div_derecha{
+ 	padding-top: 10px;
+ 	margin-left: -10px;
+}
+.main .parrafo_row2{
+	text-align: justify;
+	margin-top: -10px;
+}
+.colum2{
+	padding-top: 50px;
+}
+.colum2 .div_medio{
+
+}
+.colum2 .title2{
+	color: #004A8C;
+	font-weight: 800;
+	font-size: 40px;
+	text-align: left;
+	padding-bottom: 30px;
+}
+.colum2 .subtitulo2{
+	color: #0D1F40;
+	font-weight: 700;
+	font-size: 20px;
+	text-align: left;
+}
+footer{
+	background-color: #000000;
+	color: #fff;
+	height: 40px;
+	justify-content:  center;
+	padding-top: 5px;
+}

@@ -1,0 +1,44 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+position: relative;
+height: 100vh;
+background: linear-gradient(308.11deg, #49DBE3 -7.98%, #000B0D 27.77%);
+}
+.login-wrap{
+	height: 400px;
+	width: 400px;
+	background-color: #fff;
+	box-shadow: 7px 13px 37px #fff;
+	margin-top: 100px;
+	margin-left: 18px;
+	border-radius: 25px;
+}
+.logo{
+	padding-top: 0px;
+	padding-left: 1020px; 
+}
+.form-group{
+	padding: 10px 30px;
+}
+.title_login{
+	text-align: center;
+	font-weight: 900;
+	font-family: 'DM Serif Display', serif;
+	color: #297F84;
+}
+.boton1{
+	position: relative;
+	margin: auto;
+	left: 100px;
+	top: 20px;
+}
+footer{
+	background-color: #000000;
+	color: #fff;
+	height: 40px;
+	justify-content:  center;
+	padding-top: 5px;
+}

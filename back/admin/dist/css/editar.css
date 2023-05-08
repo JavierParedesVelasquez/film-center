@@ -1,0 +1,49 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box; 
+}
+body{
+	background-image: linear-gradient(0deg, rgba(0,0,0,0.5),rgba(0,0,0,0.5))
+	,url(../../assets/images/background/banner3.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+.container{
+	width: 400px;
+	padding: 30px;
+	background-image: linear-gradient(to right, #f83600 0%, #f9d423 100%);
+	margin: auto;
+	margin-left: 350px;
+	margin-top: 150px;
+	margin-bottom: 30px;
+	border-radius: 4px;
+	font-size: 1em;
+	color: white;
+	box-shadow: 7px 13px 37px #000;
+}
+.tittle{
+	font-family: 'Paytone One', sans-serif;
+}
+.hero{
+	font-family: 'Volkhov', serif;
+	margin-top: 8px;
+}
+.form-control{
+	background: #E4E7E5;
+	border-radius: 4px;
+	border: 1px solid #1f53c5;
+	font-family: 'calibri';
+}
+.me-md-2{
+ 	margin-left: 125px; 
+	margin-top: 15px;
+}
+.button_volver a{
+	position: absolute;
+	left: -80px;
+	top: 30px;
+}

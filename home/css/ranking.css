@@ -1,0 +1,49 @@
+a{
+	text-decoration: none;
+	color: #000000;
+}
+main{
+	background-color: #141414;
+}
+.div_medio{
+background-color: #F3B836;
+}
+.div_medio h2{
+	text-align: center;
+	color: #fff;
+	font-weight: 900;
+	padding-top: 50px;
+	font-family: 'Roboto Slab', serif;
+}
+.wikitable{
+	table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 3px solid #000000;
+    background-color: #F8EDCF;
+}
+.wikitable a{
+	text-decoration: none;
+	color: #000000;
+}
+.wikitable tr{
+	table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 3px solid #000000;
+}
+.wikitable tr th{
+	border-collapse: collapse;
+	table-layout: fixed;
+    width: 100%;
+    border: 3px solid #000000;
+}
+.wikitable tr td{
+	border-collapse: collapse;
+	table-layout: fixed;
+    width: 100%;
+    border: 3px solid #000000;
+}
+span .mw-headline{
+	overflow:hidden;
+}
